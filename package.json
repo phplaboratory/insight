@@ -46,7 +46,7 @@
     "start": "INSIGHT_PUBLIC_PATH=public node node_modules/.bin/insight-bitcore-api"
   },
   "dependencies": {
-    "insight-bitcore-api": "git://github.com/phplaboratory/insight-api.git"
+    "insight-bitcore-api": "git://github.com/phplaboratory/insight-api.git#4518cf30be496e64df64042bd70518985cd973e3"
   },
   "devDependencies": {
     "bower": "~1.2.8",
